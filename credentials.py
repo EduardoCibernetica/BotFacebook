@@ -1,0 +1,2 @@
+APPID = ""
+ClIENT_TOKEN = ""
