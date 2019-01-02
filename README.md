@@ -51,7 +51,7 @@ Usamos [SemVer](http://semver.org/) para el control de versiones. Para las versi
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia GNUv3 - vea el archivo [LICENSE.md] (LICENSE.md) para más detalles
+Este proyecto está licenciado bajo la Licencia GNUv3 - vea el archivo [LICENSE] (LICENSE.md) para más detalles
 
 ## Expresiones de gratitud
 
